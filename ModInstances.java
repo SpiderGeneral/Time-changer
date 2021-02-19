@@ -9,7 +9,7 @@ public static void register(HUDManager api) {
               api.register(modTimeChanger);
     }
     
- public static ModTimeChanger getModTimeChanger) {
+ public static ModTimeChanger getModTimeChanger {
 		return modTimeChanger;
 	}   
 }
