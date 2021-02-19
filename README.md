@@ -10,7 +10,7 @@ find the method setWorldTime(long time)
 
 and replace it with the code in WorldInfo.java
 
-then make a new class named ModNightTime in the mod draggable system
+then make a new class named ModTimeChanger in the mod draggable system
 and make it not render anything
 
 add it to your mod Instances :)
