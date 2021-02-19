@@ -2,14 +2,15 @@
 
 public class ModInstances{
 
-private static ModTimeChanger modTimeChanger
+private static ModTimeChanger modTimeChanger;
 
 public static void register(HUDManager api) {
-		modNightTime = new ModNightTime();
-		api.register(modNightTime);
+              modTimeChanger = new ModTimeChanger();
+              api.register(modTimeChanger);
     }
     
  public static ModTimeChanger getModTimeChanger) {
 		return modTimeChanger;
 	}   
+}
    
