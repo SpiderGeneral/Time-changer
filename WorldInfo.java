@@ -2,7 +2,7 @@
     
     public void setWorldTime(long time)
     {
-    	if(ModInstances.getModNightTime().isEnabled()) {
+    	if(ModInstances.getModTimeChanger().isEnabled()) {
       
       //15000 Is the time for night you can put what you like here or make it changeable from a GUI
     		this.worldTime = 15000;
