@@ -14,4 +14,4 @@ public static void register(HUDManager api) {
 	}   
 }
    
-// hi its me again this is a edit i made some mistakes in this file and some guy pointed it out :) so if you find anything please dm me on discord like that
+//edit: hi its me again i made some mistakes in this file but I fixed it now due to a Discord DM so if you find anything please dm me
