@@ -16,3 +16,5 @@ and make it not render anything
 add it to your mod Instances :)
 
 thats it CREDIT ME PLS
+
+ps : it doesnt toggle properly in a normal world however it toggles properly in a Server
