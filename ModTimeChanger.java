@@ -1,4 +1,4 @@
-public class ModNightTime extends ModDraggable{
+public class ModTimeChanger extends ModDraggable{
 	
 	private ScreenPosition pos;
 
